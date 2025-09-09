@@ -1,2 +1,2 @@
-patch code
-line 2 cde
+patch code 1
+deadly
